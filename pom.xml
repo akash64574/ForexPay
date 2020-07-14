@@ -82,7 +82,7 @@
 	<distributionManagement>
 		 <repository>
                    <id>nexus</id>
-                   <url>http://3.12.71.2:8081/nexus/content/repositories/releases</url>
+                   <url>http://3.18.144.73:8081/nexus/content/repositories/releases</url>
                  </repository>
 	</distributionManagement>
 
